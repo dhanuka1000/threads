@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/01_Introduction/pom.xml" />
         <option value="$PROJECT_DIR$/02_Extend_Threads/pom.xml" />
         <option value="$PROJECT_DIR$/03_Implementing_Runnable/pom.xml" />
+        <option value="$PROJECT_DIR$/04Thread_With_Lambda_Expression/pom.xml" />
       </list>
     </option>
   </component>
