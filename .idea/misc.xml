@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/04Thread_With_Lambda_Expression/pom.xml" />
         <option value="$PROJECT_DIR$/05_Join_isAlive/pom.xml" />
         <option value="$PROJECT_DIR$/06_Pioraty_Of_Threads/pom.xml" />
+        <option value="$PROJECT_DIR$/07_Synchonized_Key_Word/pom.xml" />
       </list>
     </option>
   </component>

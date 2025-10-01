@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="06_Pioraty_Of_Threads" />
-        <module name="04Thread_With_Lambda_Expression" />
         <module name="03_Implementing_Runnable" />
         <module name="05_Join_isAlive" />
         <module name="02_Extend_Threads" />
+        <module name="06_Pioraty_Of_Threads" />
+        <module name="04Thread_With_Lambda_Expression" />
+        <module name="07_Synchonized_Key_Word" />
         <module name="01_Introduction" />
       </profile>
     </annotationProcessing>
